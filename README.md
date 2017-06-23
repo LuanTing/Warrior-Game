@@ -12,3 +12,5 @@
 [https://luanting.github.io/Warrior-Game/](https://luanting.github.io/Warrior-Game/)
 ### How to run the game locally:
 Open up `index.html` in your browser.
+ghjghjgytu
+hjh
