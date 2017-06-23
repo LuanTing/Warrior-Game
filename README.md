@@ -1,7 +1,7 @@
 # Warrior-Game
 ## Welcome to my github
 ### Panoramic View of the game is as follow:
-![warrior game](https://github.com/LuanTing/Warrior-Game/docs/images/warrior-game.PNG)
+![warrior game](https://github.com/LuanTing/Warrior-Game/blob/master/docs/images/warrior-game.PNG)
 ### How to play:
 *You can press* `↑`, `↓`, `←`, `→`
 *Control player movement*.
