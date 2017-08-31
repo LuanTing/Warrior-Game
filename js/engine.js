@@ -164,9 +164,9 @@ var Engine = (function(global) {
 		destination.render();
     }
 
-    /*function reset() {
+    function reset() {
         
-    }*/
+    }
 
     Resources.load([
         'images/stone-block.png',
